@@ -29,7 +29,7 @@
   "id": "mobileNav",
   "language": "JavaScript",
   "left": "0",
-  "locked": false,
+  "locked": true,
   "modal": "false",
   "onhide": "",
   "onkeypress": "",
